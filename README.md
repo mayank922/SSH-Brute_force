@@ -12,16 +12,16 @@ A SSH interaction script
 
 optional arguments:
   
-  -h, --help     show this help message and exit
+    -h, --help     show this help message and exit
   
-  -H HOST        Enter the target host to connect
+    -H HOST        Enter the target host to connect
   
-  -U USER        Enter the username
+    -U USER        Enter the username
   
-  -p PASSWORD    Enter the password
+    -p PASSWORD    Enter the password
   
-  -C CMD         Enter any command to want to add
+    -C CMD         Enter any command to want to add
   
-  -P PORT        Enter the port if required
+    -P PORT        Enter the port if required
   
-  -f PASSWDFILE  specify password file
+    -f PASSWDFILE  specify password file
