@@ -20,7 +20,7 @@ optional arguments:
   
     -p PASSWORD    Enter the password
   
-    -C CMD         Enter any command to want to add
+    -C CMD         Enter any command you want to add
   
     -P PORT        Enter the port if required
   
